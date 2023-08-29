@@ -1,12 +1,11 @@
+import { Barricade } from "phosphor-react";
+
 export default function Home() {
   return (
     <div>
-      <img src="https://cinepop.com.br/wp-content/uploads/2022/10/thriller-3D.webp" />
+      <Barricade size={300} weight="fill" />
 
-      <h1>
-        Bia eu to vivo, e vou te visitar de madrugada do dia 30/08!! se quiser
-        me ver olhe debaixo da cama!
-      </h1>
+      <h1>Em construção...</h1>
     </div>
   );
 }
